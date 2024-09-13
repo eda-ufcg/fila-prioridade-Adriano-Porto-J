@@ -1,7 +1,7 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
+* Nome: Adriano Porto Andrade Junior
+* Email (@ccc): adriano.porto.andrade.junior@ccc.ufcg.edu.br
 * Matrícula: 
 
 # Roteiro: Fila de Prioridade
